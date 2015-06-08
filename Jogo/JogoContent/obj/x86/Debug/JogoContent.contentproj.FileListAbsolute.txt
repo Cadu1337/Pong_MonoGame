@@ -1,0 +1,6 @@
+C:\Users\isaque.araujo\Desktop\Jogo\Jogo\JogoContent\obj\x86\Debug\JogoContent.contentprojResolveAssemblyReference.cache
+E:\Jogo\Jogo\JogoContent\obj\x86\Debug\JogoContent.contentprojResolveAssemblyReference.cache
+C:\Users\luiz.sirica\Desktop\Jogo\Jogo\JogoContent\obj\x86\Debug\JogoContent.contentprojResolveAssemblyReference.cache
+F:\Jogo\Jogo\JogoContent\obj\x86\Debug\JogoContent.contentprojResolveAssemblyReference.cache
+C:\Users\Seeduc\Downloads\Jogo\Jogo\JogoContent\obj\x86\Debug\JogoContent.contentprojResolveAssemblyReference.cache
+C:\Users\Seeduc\Desktop\Pong_MonoGame\Jogo\JogoContent\obj\x86\Debug\JogoContent.contentprojResolveAssemblyReference.cache

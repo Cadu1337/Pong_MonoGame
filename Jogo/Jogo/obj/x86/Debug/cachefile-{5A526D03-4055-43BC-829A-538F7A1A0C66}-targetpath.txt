@@ -1,0 +1,9 @@
+Content\PongAssets\Ball.xnb
+Content\PongAssets\Middle.xnb
+Content\PongAssets\Paddle.xnb
+Content\PongAssets\StartScreen.xnb
+Content\PongAssets\font.xnb
+Content\PongAssets\Ball.png
+Content\PongAssets\Middle.png
+Content\PongAssets\Paddle.png
+Content\PongAssets\StartScreen.png
